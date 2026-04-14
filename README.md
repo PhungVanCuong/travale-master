@@ -66,7 +66,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/dienakdz/travela.git
+   git clone https://github.com/PhungVanCuong/travale-master.git
    cd travela
    ```
 
@@ -97,6 +97,8 @@
    php artisan serve
    ```
    Open your browser and navigate to [http://localhost:8000](http://localhost:8000).
+
+   or (http://127.0.0.1:8000/)
 
 ---
 
